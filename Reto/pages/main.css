@@ -1,0 +1,9 @@
+#footer {
+background: linear-gradient(0deg, #1c3643 0, #273b47 25%, #1e5372);
+box-shadow: 0 2px 4px 0 rgb(0 0 0 / 25%);
+padding: 2%;
+}
+
+#footer a {
+    color: white;
+}
