@@ -1,3 +1,67 @@
+
+.text-comprar {
+    color: #86b13e !important;
+}
+
+.btn-platzi {
+    background-color: #86b13e !important;
+    color: white;
+}
+
+header img{
+    width: 80px;
+}
+
+main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carousel {
+    position: relative;
+}
+
+/* <-- Overlay style --> */
+#carousel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#carousel .overlay .container, 
+#carousel .overlay .row {
+    height: 100%;
+}
+
+section .card {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#speakers img {
+    object-fit: cover;
+}
+
+.badges, .bages > span {
+    text-align: right;
+}
+
+#place-time {
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
+}
+
+
+
 #footer {
 background: linear-gradient(0deg, #1c3643 0, #273b47 25%, #1e5372);
 box-shadow: 0 2px 4px 0 rgb(0 0 0 / 25%);
